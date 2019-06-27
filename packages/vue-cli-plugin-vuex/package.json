@@ -1,6 +1,6 @@
 {
   "name": "@zq741235/vue-cli-plugin-vuex",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "vuex modules",
   "main": "index.js",
   "repository": {
