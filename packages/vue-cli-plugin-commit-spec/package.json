@@ -1,0 +1,16 @@
+{
+  "name": "vue-cli-plugin-commit-spec",
+  "version": "0.0.3",
+  "description": "提交规范",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "commit",
+    "vue",
+    "commitlint"
+  ],
+  "author": "zhouqing",
+  "license": "ISC",
+}

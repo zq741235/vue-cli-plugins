@@ -1,0 +1,15 @@
+{
+  "name": "@zq741235/vue-cli-plugin-vuex",
+  "version": "1.0.0",
+  "description": "vuex modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuex",
+    "vue-cli-plugin"
+  ],
+  "author": "zq",
+  "license": "ISC"
+}

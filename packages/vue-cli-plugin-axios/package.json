@@ -1,0 +1,15 @@
+{
+  "name": "@zq741235/vue-cli-plugin-axios",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "axios",
+    "vue-cli-plugin"
+  ],
+  "author": "zhouqing",
+  "license": "ISC"
+}
