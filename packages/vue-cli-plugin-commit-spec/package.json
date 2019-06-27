@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-commit-spec",
-  "version": "0.0.3",
+  "version": "1.0.1",
   "description": "提交规范",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,5 @@
     "commitlint"
   ],
   "author": "zhouqing",
-  "license": "ISC",
+  "license": "ISC"
 }
