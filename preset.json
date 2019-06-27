@@ -1,0 +1,27 @@
+{
+    "useConfigFiles": true,
+    "plugins": {
+      "@vue/cli-plugin-babel": {},
+      "@vue/cli-plugin-eslint": {
+        "config": "standard",
+        "lintOn": ["save"]
+      },
+      "@vue/cli-plugin-unit-jest": {},
+      "@vue/cli-plugin-e2e-nightwatch": {},
+      "@aym/vue-cli-plugin-buss-ui": {},
+      "vue-cli-plugin-commit-spec": {
+        "prompts": true
+      },
+      "@zq741235/vue-cli-plugin-router": {
+        "prompts": true
+      },
+      "@zq741235/vue-cli-plugin-vuex": {
+        "prompts": true
+      },
+      "@zq741235/vue-cli-plugin-axios": {
+        "prompts": true
+      }
+    },
+    "cssPreprocessor": "dart-sass"
+  }
+  
