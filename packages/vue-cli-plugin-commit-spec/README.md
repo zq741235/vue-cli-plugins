@@ -7,3 +7,9 @@
 ```
 vue add commit-spec
 ```
+
+## 一键安装基础模版
+
+```
+vue create --preset zq741235/vue-cli-plugins my-project
+```

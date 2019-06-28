@@ -15,3 +15,9 @@ vue add @zq741235/router
 ```
 ? 是否需要router用法示例?(可能会覆盖App.vue内容) No
 ```
+
+## 一键安装基础模版
+
+```
+vue create --preset zq741235/vue-cli-plugins my-project
+```

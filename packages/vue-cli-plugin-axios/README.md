@@ -49,3 +49,10 @@ http://localhost:8080/axios
 ```
 vue add @zq741235/router
 ```
+
+
+## 一键安装基础模版
+
+```
+vue create --preset zq741235/vue-cli-plugins my-project
+```

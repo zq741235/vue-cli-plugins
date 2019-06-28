@@ -22,3 +22,10 @@ vue add @zq741235/vuex
 ```
 localhost:8080/vuex
 ```
+
+
+## 一键安装基础模版
+
+```
+vue create --preset zq741235/vue-cli-plugins my-project
+```
