@@ -7,8 +7,7 @@
         "lintOn": ["save"]
       },
       "@vue/cli-plugin-unit-jest": {},
-      "@vue/cli-plugin-e2e-nightwatch": {},
-      "@aym/vue-cli-plugin-buss-ui": {},
+      "@vue/cli-plugin-e2e-nightwatch": {}, 
       "vue-cli-plugin-commit-spec": {
         "prompts": true
       },
