@@ -1,3 +1,4 @@
+<% if (demoAxios) { %>
 export default [
     {
       path: '/axios',
@@ -8,4 +9,4 @@ export default [
       }
     }
 ]
-  
+<% } %>  

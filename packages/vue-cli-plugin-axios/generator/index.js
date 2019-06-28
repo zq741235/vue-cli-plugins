@@ -6,8 +6,23 @@ module.exports = (api, options = {}) => {
       qs: '^6.7.0'
     }
   })
-  if(options.axiosDemo){
-
+  if(options.demoAxios){
+    api.extendPackage({
+      vue: {
+        devServer: {
+          proxy: {
+            '/api': {
+              logLevel: 'debug',
+              target: 'http://rap2api.taobao.org/app/mock/223127',
+              cookieDomainRewrite: '',
+              router: {
+                // 'dev:devPort': 'proxy:proxyPort'
+              }
+            }
+          }
+        }
+      }
+    })
   }
   // api.render('./template/src/api')
   // api.render('./template/src/plugins')
